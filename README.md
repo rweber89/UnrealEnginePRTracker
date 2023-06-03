@@ -7,3 +7,6 @@ https://github.com/EpicGames/UnrealEngine/pull/10183
 
 ( Missing UAnimInstance Function )
 https://github.com/EpicGames/UnrealEngine/pull/10085
+
+( D3DShaderCompiler Memleak )
+https://github.com/EpicGames/UnrealEngine/pull/10502
