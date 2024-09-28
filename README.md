@@ -8,7 +8,7 @@ https://github.com/EpicGames/UnrealEngine/pull/10183
 ( CommonUI make header file public for game specific extensions )
 https://github.com/EpicGames/UnrealEngine/pull/12372
 
-# Merged PRs ( purge this list once I no longer use UE4 projects )
+# Merged PRs
 ( Missing UAnimInstance Function )
 https://github.com/EpicGames/UnrealEngine/pull/10085
 
